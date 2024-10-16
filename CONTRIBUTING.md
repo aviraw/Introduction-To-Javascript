@@ -36,15 +36,15 @@ To contribute, follow these steps:
 
    - Clone the forked repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/javascript-open-source-guide.git
-     cd javascript-open-source-guide
+     git clone https://github.com/aviraw/Introduction-To-Javascript.git
+     cd Introduction-To-JavaScript
      ```
 
 3. **Create a New Branch**
 
    - Create a new branch for your contribution:
      ```bash
-     git checkout -b feature/add-new-section
+     git checkout -b feature/new-section
      ```
 
 4. **Make Your Changes**
@@ -63,7 +63,7 @@ To contribute, follow these steps:
 
    - Push your branch to your forked repository:
      ```bash
-     git push origin feature/add-new-section
+     git push origin feature/new-section
      ```
 
 7. **Create a Pull Request**
