@@ -6,11 +6,11 @@ In JavaScript, **variables** are used to store data values. Variables allow deve
 
 This section will cover:
 
-- What variables are
-- Different data types in JavaScript
-- How to declare variables
-- Scope and hoisting
-- Best practices for using variables
+- [Different data types in JavaScript](#data-types-in-javascript)
+- [How to declare variables](#declaring-variables)
+- [Scope and hoisting](#scope-and-hoisting)
+- [Best practices for using variables](#best-practices-for-using-variables)
+- [What are Variables](#what-are-variables)
 
 ## What are Variables?
 
