@@ -31,7 +31,7 @@ We encourage you to:
 ## Getting Started with JavaScript
 
 - **What is JavaScript?**
-- **Variables and Data Types**
+- [**Variables and Data Types**](Variables&DataTypes.md) 
 - **Operators**
 - **Control Flow: Conditionals and Loops**
 - **Functions**
